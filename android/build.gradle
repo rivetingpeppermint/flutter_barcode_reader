@@ -52,7 +52,7 @@ protobuf {
     plugins {
         javalite {
             // The codegen for lite comes as a separate artifact
-            artifact = 'com.google.protobuf:protoc-gen-javalite:3.0.0'
+            artifact = 'com.google.protobuf:protoc-gen-javalite:3.0.0:osx-x86_64'
         }
     }
     generateProtoTasks {
